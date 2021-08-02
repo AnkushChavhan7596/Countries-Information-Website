@@ -1052,7 +1052,7 @@
     .main-container .main-heading h2{
         text-align: center;
         font-weight: 600;
-        font-size: 30px;
+        font-size: 25px;
         word-spacing: 5px;
         letter-spacing: .5px;
         padding-bottom: 50px;
@@ -1083,15 +1083,15 @@
     }
     
     .search-container button{
+        width: 130px;
         margin: 0 auto;
         margin-top: 20px;
-        width: 130px;
         background-color: rgb(17, 202, 17);
         color: #fff;
         font-size: 14px;
         font-weight: 500;
         letter-spacing: 1px;
-        padding: 3px 12px;
+        padding: 4px 15px;
         border-radius: 2px;
         outline: none;
         border: none;
